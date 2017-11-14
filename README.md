@@ -6,6 +6,7 @@ I will assume that we share the same understanding of the term 'HIFI audio'. By 
 * [Rotel (now part of Bowers and Wilkins)](http://rotel.com/music-systems) - [Example Rotel RA 1592](http://rotel.com/product/ra-1592)
 * [NAD](http://nadelectronics.com) - [Example: NAD C388](http://nadelectronics.com/product/c-388-hybrid-digital-dac-amplifier/)
 * [Parasound](http://www.parasound.com/)
+* [McIntosh](http://www.mcintoshlabs.com/us/Products/pages/categorylanding.aspx?CatId=Amplifiers) - [Example McIntosh MC152 2 x 150W](http://www.mcintoshlabs.com/us/Products/pages/ProductDetails.aspx?CatId=amplifiers&ProductId=MC152)
 
 HIFI Audio for the purposes of this email will mean something like the term 'prosumer', which is a hybrid category between 'professional' and 'consumer'.
 
@@ -85,7 +86,13 @@ Some examples - definitely not the most outrageous!
 * [Anthem Integrated 2 x 400W amplifier: $4500](https://www.anthemav.com/products-current/model=str-integrated-amplifier/page=specs)
 * [Peachtree Audio nova150 2 x 150W Class D amplifier: $1500](https://www.peachtreeaudio.com/nova150-amplifier-with-dac.html)
 * [Peachtree Audio nova300 2 x 300W Class D amplifier: $2000](https://www.peachtreeaudio.com/nova300-amplifier-with-dac.html)
-
+* [McIntosh MC152 2 x 150W amplifier: $4500](https://www.crutchfield.com/p_958MC152/McIntosh-MC152.html?tp=180&awcp=1t1&awcr=196735223404&awdv=c&awkw=%2bmcintosh+%2bmc152&awmt=b&awnw=g&awug=9032020)
+* [McIntosh MC301 **Monoblock** 1x300W: $5000](https://www.crutchfield.com/p_958MC301/McIntosh-MC301.html)
+* [McIntosh MA5300 2 x 100W amplifier with DAC: $5000](https://www.crutchfield.com/p_958MA5300/McIntosh-MA5300.html)
+* [NAD C 275BEE 2 x 150W power amplifier: $1300](https://www.crutchfield.com/p_745C275BEE/NAD-C-275BEE.html?tp=180&awkw=75620915785&awat=pla&awnw=g&awcr=47439361105&awdv=c&awug=9032020)
+* [Arcam A49 2 x 200W amplifier: $5750](http://www.audiolab.com/arcam-a49-audiophile-stereo-integrated-amplifier)
+* [Roksan Blak Integrated USB 2 x 230W amplifier: $5000](http://www.rutherfordaudio.com/introducing-new-blak-series-roksan/)
+* [Audio Research GSi75 2 x 75W amplifier: $10695](https://www.paragonsns.com/product/audio-research-gsi75-integrated-amplifier/)
 
 ## Do not provide schematics (any more)
 ## Lack of 'modern' perspective
@@ -99,6 +106,10 @@ Some examples - definitely not the most outrageous!
 # Other people who are thinking and working on similar things
 
 # Links
+
+## Classes of amplifiers
+* [Audio Amplifier Classes (A, A/B, D, G, and H): What are the Differences?](http://www.audioholics.com/audio-amplifier/amplifier-classes)
+
 
 ## Class D power amplifiers
 * [FXAudio D802 2 x 80W Digital amplifier: $110](https://www.amazon.com/192KHz-Digital-Remote-Amplifier-silver/dp/B00WU6JU9Y)
@@ -166,3 +177,9 @@ To be included here, these power amplifiers should promise less than 0.002% THD 
     * Includes RCA (balun) and Balanced (XLR) inputs
     * Auto-sensing 100-240V mains input
     * 92% power efficiency
+
+# Other informative links
+* [AV Receiver and Amplifier Power Ratings Trends: Manipulating Wattage Ratings (Audioholics)](http://www.audioholics.com/audio-amplifier/product-managing-receiver-platforms-power-ratings)
+* [The All Channels Driven (ACD) Amplifier Test (Audioholics)](http://www.audioholics.com/audio-amplifier/the-all-channels-driven-acd-amplifier-test)
+* [The All Channels Driven Amplifier Test Controversy (audioholics)](http://www.audioholics.com/audio-amplifier/the-all-channels-driven-amplifier-test-controversy)
+
