@@ -81,10 +81,17 @@ Excerpt from wikipedia:
 Balanced audio is a method of interconnecting audio equipment using balanced lines. This type of connection is very important in sound recording and production because it allows the use of long cables while reducing susceptibility to external noise caused by electromagnetic interference.
 Balanced connections typically use shielded twisted-pair cable and three-conductor connectors. The connectors are usually XLR or TRS phone connectors. When used in this manner, each cable carries one channel, therefore stereo audio (for example) would require two of them.
 
-### Balanced audio connectors
+### [Balanced audio connectors](https://en.wikipedia.org/wiki/Balanced_audio#Connectors)
 3-pin XLR connectors and quarter-inch (¼" or 6.35 mm) TRS phone connectors are commonly used for balanced audio signals. Many jacks are now designed to take either XLR or TRS phone plugs. Equipment intended for long-term installation sometimes uses terminal strips or Euroblock connectors.
 
 With XLR connectors, pins 1, 2, and 3 are usually used for the shield (earthed or chassis), the non-inverting signal, and the inverting signal, respectively. (The phrase "ground, live, return", corresponding to "X, L, R", is often offered as a memory aid, although the inverting signal is not simply a "return.") On TRS phone plugs, the tip is non-inverting, the ring is inverting, and the sleeve is ground.
+
+### [Converters](https://en.wikipedia.org/wiki/Balanced_audio#Converters)
+Unbalanced signals can be converted to balanced signals by the use of a [balun](https://en.wikipedia.org/wiki/Balun), often through a DI unit (also called a "DI box" or "direct box").
+If balanced audio must be fed into an unbalanced connection, the electronic design used for the balanced output stage must be known. In most cases the negative output can be tied to ground, but in certain cases the negative output should be left disconnected
+
+### Converting XLR (Balanced) to RCA (unbalanced)
+See [this discussion on audiogon](https://forum.audiogon.com/discussions/is-it-save-to-convert-xlr-to-rca) - it is possible, and easy and will not damage RCA equipment, but (of course) you lose the benefits of balanced XLR. Here is an example of a [stereo (2-channel) XLR Female to RCA  Male cable on Amazon for $10](https://www.amazon.com/dp/B000V1RLI2/) a [stereo XLR Male to RCA Male cable on Amazon for $9.50](https://www.amazon.com/Stagg-STC3CMXM-Male-Twin-Cable/dp/B003SOR6UC)
 
 # Some rants (complaints) about existing 'ProAudio' audio components
 ## The cost can be absurd!
