@@ -161,8 +161,8 @@ To be included here, these power amplifiers should promise less than 0.002% THD 
     * At 1W:
         * THD not measurable (typical), 0.0015% THD (max)
 * [Nord One MP NC252 250W Stereo Power Amp](https://www.nordacoustics.co.uk/product-page/nord-one-mp-nc250-stereo-power-amp-in-silver)
-* Uses the NC252MP
-* Publishes the same THD specs
-* Includes RCA (balun) and Balanced (XLR) inputs
-* Auto-sensing 100-240V mains input
-* 92% power efficiency
+    * Uses the NC252MP
+    * Publishes the same THD specs
+    * Includes RCA (balun) and Balanced (XLR) inputs
+    * Auto-sensing 100-240V mains input
+    * 92% power efficiency
