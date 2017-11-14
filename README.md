@@ -1,22 +1,5 @@
 
-## My ideas
-
-* What I MEAN by 'modern' in the context of HIFI audio
-* My ideas for what a 'modern' HIFI power amplifier and pre-amplifier would look like
-* Some info about other people who are thinking and doing similar things
-* Some rants (complaints) about 'HIGH END' audio component manufacturers failing / refusing to move with the times
-* What I consider the key goals and problems to be solved
-
-## Links
-
-* Class D power amplifiers
-* Switching mode power supplies
-* Ultra-low distortion (less than 0.001% THD across audio spectrum (20 Hz - 20 kHz) high current power amplifiers (100W RMS or higher)
-* Balanced audio
-
-# What do I mean by 'modern' HIFI audio?
-
-## What is HIFI Audio
+# What is HIFI Audio
 
 I will assume that we share the same understanding of the term 'HIFI audio'. By way of descriptive examples, when I say 'HIFI audio', I think of audio components made by the likes of:
 * [Bowers and Wilkins](http://www.bowers-wilkins.com/)
@@ -26,9 +9,9 @@ I will assume that we share the same understanding of the term 'HIFI audio'. By 
 
 HIFI Audio for the purposes of this email will mean something like the term 'prosumer', which is a hybrid category between 'professional' and 'consumer'.
 
-## What do I mean by 'modern'?
+# What do I mean by 'modern'?
 
-### Sources
+## Sources
 
 * Sources are increasingly (and mostly) DIGITAL
     * May be 'lossy' (e.g. MP3, OGG) or 'lossless' (e.g. FLAC, WAV)
@@ -43,7 +26,7 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
     * Next-gen users (often called 'millenials) like to stream music from their smartphones
     * Bluetooth may be as good as connecting the headset output of a smartphone?
 
-### User interface
+## User interface
 
 * Modern audio equipment (and the users of such equipment) expect a more elaborate and richer user interface - which can include:
     * Larger richer display which may be capable of displaying digital pictures in addition to text
@@ -71,17 +54,23 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
         * Turn off the user interface display
         * Switch computer module to low power mode
 
-## Links
+# Some rants (complaints) about existing 'ProAudio' audio components
 
-### Class D power amplifiers
+# Key goals and problems to be solved
 
-### Class T power amplifiers
+# Other people who are thinking and working on similar things
 
-### Switching mode power supplies
+# Links
 
-### Ultra-low distortion power amplifiers
+## Class D power amplifiers
 
-### [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
+## Class T power amplifiers
+
+## Switching mode power supplies
+
+## Ultra-low distortion power amplifiers
+
+## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
 
 
 
