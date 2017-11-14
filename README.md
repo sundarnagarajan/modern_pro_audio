@@ -19,6 +19,7 @@
 ## What is HIFI Audio
 
 I will assume that we share the same understanding of the term 'HIFI audio'. By way of descriptive examples, when I say 'HIFI audio', I think of audio components made by the likes of:
+
 [* Bowers and Wilkins](http://www.bowers-wilkins.com/)
 * [Rotel (now part of Bowers and Wilkins)](http://rotel.com/music-systems)[Example Rotel RA 1592](http://rotel.com/product/ra-1592)
 * [NAD](http://nadelectronics.com)[Example: NAD C388](http://nadelectronics.com/product/c-388-hybrid-digital-dac-amplifier/)
