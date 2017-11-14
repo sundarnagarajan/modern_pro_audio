@@ -80,7 +80,7 @@ Some examples - definitely not the most outrageous!
 * [Rotel RA-1570 2 x 120W amplifier: $1600](https://www.magnoliaav.com/shop/audio/av-separates/p/rotel-RA-1570-SILVER-5708760)
 * [Rotel RSP-1572 pre-amplifier: $2200](https://www.magnoliaav.com/shop/audio/av-receivers/p/rotel-RSP-1572-SILVER-5708430)
 * [NAD C388 2 x 150W power amplifier: $1600](https://www.crutchfield.com/p_745C388/NAD-C-388.html?tp=34948&awkw=262153781688&awat=pla&awnw=g&awcr=147307116170&awdv=c&awug=9032020)
-* Anthem Integrated 2 x 400W amplifier: $4500](https://www.anthemav.com/products-current/model=str-integrated-amplifier/page=specs)
+* [Anthem Integrated 2 x 400W amplifier: $4500](https://www.anthemav.com/products-current/model=str-integrated-amplifier/page=specs)
 
 ## Do not provide schematics (any more)
 ## Lack of 'modern' perspective
