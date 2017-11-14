@@ -9,6 +9,21 @@ I will assume that we share the same understanding of the term 'HIFI audio'. By 
 
 HIFI Audio for the purposes of this email will mean something like the term 'prosumer', which is a hybrid category between 'professional' and 'consumer'.
 
+## Audio components being considered here (for transformation / inclusion)
+* Pre-amplifier
+* [DAC (Digital-Analog Converter)](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
+* Input switch
+* Output switch
+* Power amplifier
+
+# Audio components that _MAY_ be included for transformation (nice to have)
+* [Analog to Digital Converter (ADC)](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
+
+## Audio components _NOT_ being considered for transformation - may be included as-is
+* Speakers
+* Phono pre-amplifier
+* Microphone input
+
 # What do I mean by 'modern'?
 
 ## Sources
@@ -63,12 +78,35 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
 # Links
 
 ## Class D power amplifiers
+* [FXAudio D802](https://www.amazon.com/192KHz-Digital-Remote-Amplifier-silver/dp/B00WU6JU9Y)
+    * Better specs [here on shenzhenaudio.com](https://www.shenzhenaudio.com/fx-audio-d802-80w-2-192khz-coaxial-optical-usb-class-d-digital-power-amplifier-remote-control.html)
+        * Digital audio receiver: Asahi Kasei Microdevices AKM4113 - see [datasheet](https://www.akm.com/akm/en/file/datasheet/AK4113VF.pdf)
+        * USB 2.0 audio controller: [Via VT1630A](https://www.viatech.com/en/silicon/legacy/audio/vt1630a/)
+        * Power amplifier: STMicroelectronics STA326 - see [datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/36/12/fe/ee/a4/c8/49/80/CD00062804.pdf/files/CD00062804.pdf/jcr:content/translations/en.CD00062804.pdf)
+        * STMicroelectronics STA326 uses [Direct Digital Amplification (DDX) by Apogee Technology Inc](http://www.apogeebio.com/ddx/PDFs/AN-14.pdf)
 
-## Class T power amplifiers
+## [Class T power amplifiers](https://en.wikipedia.org/wiki/Class-T_amplifier)
+* 
 
 ## Switching mode power supplies
+* [Hypex SMPS1200 1200W SMPS](https://www.hypex.nl/product/smps1200/10#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/smps/smps1200/Documentation/SMPS1200Axx0_07xx.pdf)
+    * Switching frequency: 100 KHz
+    * Continuous output: 325W
 
 ## Ultra-low distortion power amplifiers
+To be included here, these power amplifiers should promise less than 0.002% THD across the audio spectrum (20 Hz to 20 KHz)
+* [A MOSFETPowerAmplifier with ErrorCorrection](http://www.cordellaudio.com/papers/MOSFET_Power_Amp.pdf) - paper by Bob Cordell (1984). Bob Cordell runs an [audio design consultancy](http://www.cordellaudio.com/) and has written a book on [Designing Audio Power Amplifiers](https://www.amazon.com/Designing-Audio-Power-Amplifiers-Cordell/dp/007164024X/)
+[* NC252MP 2 x 250W RMS power amplifier with integrated switching mode power supply](https://www.hypex.nl/product/nc252mp-oem/76#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/ncore_mp/nc252mp/Documentation/NC252MP_02xx.pdf)
+    * At (Rated Power / 2):
+        * 0.0015% THD (typical), 0.0024% THD (max)
+    * At 1W:
+        * THD not measurable (typical), 0.0015% THD (max)
+* [Nord One MP NC252 250W Stereo Power Amp](https://www.nordacoustics.co.uk/product-page/nord-one-mp-nc250-stereo-power-amp-in-silver)
+* Uses the NC252MP
+* Publishes the same THD specs
+* Includes RCA (balun) and Balanced (XLR) inputs
+* Auto-sensing 100-240V mains input
+* 92% power efficiency
 
 ## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
 
