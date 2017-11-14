@@ -72,9 +72,19 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
     * Home automation use-cases
         * When my home automation system detects I have left home, turn off my audio components if they are on
 
-# Things we can keep from existing 'pro-audio'
+# Things we can adopt (keep) from existing 'pro-audio'
 
 ## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
+
+Excerpt from wikipedia:
+
+Balanced audio is a method of interconnecting audio equipment using balanced lines. This type of connection is very important in sound recording and production because it allows the use of long cables while reducing susceptibility to external noise caused by electromagnetic interference.
+Balanced connections typically use shielded twisted-pair cable and three-conductor connectors. The connectors are usually XLR or TRS phone connectors. When used in this manner, each cable carries one channel, therefore stereo audio (for example) would require two of them.
+
+### Balanced audio connectors
+3-pin XLR connectors and quarter-inch (¼" or 6.35 mm) TRS phone connectors are commonly used for balanced audio signals. Many jacks are now designed to take either XLR or TRS phone plugs. Equipment intended for long-term installation sometimes uses terminal strips or Euroblock connectors.
+
+With XLR connectors, pins 1, 2, and 3 are usually used for the shield (earthed or chassis), the non-inverting signal, and the inverting signal, respectively. (The phrase "ground, live, return", corresponding to "X, L, R", is often offered as a memory aid, although the inverting signal is not simply a "return.") On TRS phone plugs, the tip is non-inverting, the ring is inverting, and the sleeve is ground.
 
 # Some rants (complaints) about existing 'ProAudio' audio components
 ## The cost can be absurd!
