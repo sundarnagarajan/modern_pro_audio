@@ -73,8 +73,21 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
 
 ## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
 
-
 # Some rants (complaints) about existing 'ProAudio' audio components
+## The cost can be absurd!
+Some examples - definitely not the most outrageous!
+* [Rotel RA-1592 2 x 200W amplifier: $2500](https://www.magnoliaav.com/shop/audio/av-separates/p/rotel-RA-1592-SILVER-5708757)
+* [Rotel RA-1570 2 x 120W amplifier: $1600](https://www.magnoliaav.com/shop/audio/av-separates/p/rotel-RA-1570-SILVER-5708760)
+* [Rotel RSP-1572 pre-amplifier: $2200](https://www.magnoliaav.com/shop/audio/av-receivers/p/rotel-RSP-1572-SILVER-5708430)
+* [NAD C388 2 x 150W power amplifier: $1600](https://www.crutchfield.com/p_745C388/NAD-C-388.html?tp=34948&awkw=262153781688&awat=pla&awnw=g&awcr=147307116170&awdv=c&awug=9032020)
+* Anthem Integrated 2 x 400W amplifier: $4500](https://www.anthemav.com/products-current/model=str-integrated-amplifier/page=specs)
+
+## Do not provide schematics (any more)
+## Lack of 'modern' perspective
+* IR remote control is the only interface provided other than physical buttons
+* Software API is almost unheard of, although Rotel does publish some their [RS232 protocol](http://rotel.com/sites/default/files/product/rs232/RA1592%20Protocol.pdf) and the [IR Hex codes for their remote control](http://rotel.com/sites/default/files/product/ir/RA1592%20HEX.pdf)
+* Display customization is impossible - not even considered
+* Creating 'activities' and macros (sequences of operations for connecting components together to perform an activity like 'Listen to Squeezebox') is left to third parties like [Logitech](https://secure.logitech.com/en-us/product/harmony-hub), [Blumoo](http://www.blumoo.com/) or [Pronto](https://www.amazon.com/Pronto-Universal-Control-Compatible-Android/dp/B00Y2SIYP4). These devices invariably try to bridge between Bluetooth and IR, and invariably do not have an open API
 
 # Key goals and problems to be solved
 
