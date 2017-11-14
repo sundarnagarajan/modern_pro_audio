@@ -69,6 +69,11 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
         * Turn off the user interface display
         * Switch computer module to low power mode
 
+# Things we can keep from existing 'pro-audio'
+
+## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
+
+
 # Some rants (complaints) about existing 'ProAudio' audio components
 
 # Key goals and problems to be solved
@@ -104,9 +109,3 @@ To be included here, these power amplifiers should promise less than 0.002% THD 
 * Includes RCA (balun) and Balanced (XLR) inputs
 * Auto-sensing 100-240V mains input
 * 92% power efficiency
-
-## [Balanced audio](https://en.wikipedia.org/wiki/Balanced_audio)
-
-
-
-
