@@ -68,6 +68,8 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
         * Switch off my power amplifier it if is on
         * Turn off the user interface display
         * Switch computer module to low power mode
+    * Home automation use-cases
+        * When my home automation system detects I have left home, turn off my audio components if they are on
 
 # Things we can keep from existing 'pro-audio'
 
@@ -81,6 +83,9 @@ Some examples - definitely not the most outrageous!
 * [Rotel RSP-1572 pre-amplifier: $2200](https://www.magnoliaav.com/shop/audio/av-receivers/p/rotel-RSP-1572-SILVER-5708430)
 * [NAD C388 2 x 150W power amplifier: $1600](https://www.crutchfield.com/p_745C388/NAD-C-388.html?tp=34948&awkw=262153781688&awat=pla&awnw=g&awcr=147307116170&awdv=c&awug=9032020)
 * [Anthem Integrated 2 x 400W amplifier: $4500](https://www.anthemav.com/products-current/model=str-integrated-amplifier/page=specs)
+* [Peachtree Audio nova150 2 x 150W Class D amplifier: $1500](https://www.peachtreeaudio.com/nova150-amplifier-with-dac.html)
+* [Peachtree Audio nova300 2 x 300W Class D amplifier: $2000](https://www.peachtreeaudio.com/nova300-amplifier-with-dac.html)
+
 
 ## Do not provide schematics (any more)
 ## Lack of 'modern' perspective
@@ -96,12 +101,31 @@ Some examples - definitely not the most outrageous!
 # Links
 
 ## Class D power amplifiers
-* [FXAudio D802](https://www.amazon.com/192KHz-Digital-Remote-Amplifier-silver/dp/B00WU6JU9Y)
+* [FXAudio D802 2 x 80W Digital amplifier: $110](https://www.amazon.com/192KHz-Digital-Remote-Amplifier-silver/dp/B00WU6JU9Y)
     * Better specs [here on shenzhenaudio.com](https://www.shenzhenaudio.com/fx-audio-d802-80w-2-192khz-coaxial-optical-usb-class-d-digital-power-amplifier-remote-control.html)
         * Digital audio receiver: Asahi Kasei Microdevices AKM4113 - see [datasheet](https://www.akm.com/akm/en/file/datasheet/AK4113VF.pdf)
         * USB 2.0 audio controller: [Via VT1630A](https://www.viatech.com/en/silicon/legacy/audio/vt1630a/)
         * Power amplifier: STMicroelectronics STA326 - see [datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/36/12/fe/ee/a4/c8/49/80/CD00062804.pdf/files/CD00062804.pdf/jcr:content/translations/en.CD00062804.pdf)
         * STMicroelectronics STA326 uses [Direct Digital Amplification (DDX) by Apogee Technology Inc](http://www.apogeebio.com/ddx/PDFs/AN-14.pdf)
+* [SMSL Q5 Pro 2 x 50W Digital Amplifier: $140](https://www.amazon.com/dp/B017W12UCU)
+    * Available [cheaper ($115) here](https://www.parts-express.com/smsl-q5-pro-stereo-amplifier-usb-optical-coaxial-dac-with-subwoofer-output-2x40w--230-210)
+
+## Class T Power amplifiers
+* [ALIENTEK D8 2 x 80W Class T digital amplifier: $85](https://www.aliexpress.com/item/ALIENTEK-D8-SMSL-Pro-Pure-Digital-HiFi-Amplifier-USB-Fiber-Coaxial-Optical-Audio-Power-PCM2704/32585939013.html?spm=2114.12010108.1000013.10.48692492bhPzXy&traffic_analysisId=recommend_2088_5_90158_iswistore&scm=1007.13339.90158.0&pvid=064f3d83-d8c0-4e87-ad88-761132882a25&tpp=1)
+    * Available on [Amazon for $126 through third-party selelrs](https://www.amazon.com/XMOS-ALIENTEK-Amplifier-Headphone-Supply-Black/dp/B075L21N8X)
+    * PCM7204 (DAC?)
+    * STA328 Class D amplifier - [datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/36/92/fb/cf/e4/11/49/f2/CD00043329.pdf/files/CD00043329.pdf/jcr:content/translations/en.CD00043329.pdf)
+    * PCM1522
+    * [Asahi Kasei Microdevices AK5358 4-channel DAC](https://www.akm.com/akm/en/file/datasheet/AK5388AEQ.pdf)
+    * [Cirrus Logic WM8805 S/PDIF transceiver](https://www.cirrus.com/products/wm8805/)
+* [Dayton Audio DTA-120 Class T 2 x 60W Amplifier: $88](https://www.amazon.com/Dayton-Audio-DTA-120-Digital-Amplifier/dp/B00HFG3FYA)
+    * No digital inputs
+* [Lepy LP-2051 2 x 50W Class T amplifier: $46](https://www.amazon.com/Lepy-LP-2051-Hi-Fi-Amplifier-Stereo/dp/B01M6BMKD6)
+    * Uses  LP-2051 Audio Amplifier IC
+    * No digital inputs
+* [Topping TP32EX 2 x 50W Class T Amplifier: $120](https://www.amazon.com/Topping-Amplifier-Coaxial-Digital-Headphone/dp/B071RJGQZW)
+    * Uses TK2050
+    * Uses CS3310
 
 ## Switching mode power supplies
 * [Hypex SMPS1200 1200W SMPS](https://www.hypex.nl/product/smps1200/10#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/smps/smps1200/Documentation/SMPS1200Axx0_07xx.pdf)
