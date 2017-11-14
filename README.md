@@ -85,9 +85,6 @@ HIFI Audio for the purposes of this email will mean something like the term 'pro
         * Power amplifier: STMicroelectronics STA326 - see [datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/36/12/fe/ee/a4/c8/49/80/CD00062804.pdf/files/CD00062804.pdf/jcr:content/translations/en.CD00062804.pdf)
         * STMicroelectronics STA326 uses [Direct Digital Amplification (DDX) by Apogee Technology Inc](http://www.apogeebio.com/ddx/PDFs/AN-14.pdf)
 
-## [Class T power amplifiers](https://en.wikipedia.org/wiki/Class-T_amplifier)
-* 
-
 ## Switching mode power supplies
 * [Hypex SMPS1200 1200W SMPS](https://www.hypex.nl/product/smps1200/10#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/smps/smps1200/Documentation/SMPS1200Axx0_07xx.pdf)
     * Switching frequency: 100 KHz
