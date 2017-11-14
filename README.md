@@ -109,6 +109,10 @@ Some examples - definitely not the most outrageous!
         * STMicroelectronics STA326 uses [Direct Digital Amplification (DDX) by Apogee Technology Inc](http://www.apogeebio.com/ddx/PDFs/AN-14.pdf)
 * [SMSL Q5 Pro 2 x 50W Digital Amplifier: $140](https://www.amazon.com/dp/B017W12UCU)
     * Available [cheaper ($115) here](https://www.parts-express.com/smsl-q5-pro-stereo-amplifier-usb-optical-coaxial-dac-with-subwoofer-output-2x40w--230-210)
+* [Review of 4 class D amplifiers, including the FXAudio D802](http://www.qobuz.com/ie-en/info/hi-res-guide/comparison-four-digital-amplifiers178041)
+* [STA326 aliexpress.com search](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20171113195149&SearchText=STA326)
+* [STA326 eBay search](https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=STA326+amplifier&rt=nc&LH_BIN=1)
+
 
 ## Class T Power amplifiers
 * [ALIENTEK D8 2 x 80W Class T digital amplifier: $85](https://www.aliexpress.com/item/ALIENTEK-D8-SMSL-Pro-Pure-Digital-HiFi-Amplifier-USB-Fiber-Coaxial-Optical-Audio-Power-PCM2704/32585939013.html?spm=2114.12010108.1000013.10.48692492bhPzXy&traffic_analysisId=recommend_2088_5_90158_iswistore&scm=1007.13339.90158.0&pvid=064f3d83-d8c0-4e87-ad88-761132882a25&tpp=1)
@@ -125,12 +129,28 @@ Some examples - definitely not the most outrageous!
     * No digital inputs
 * [Topping TP32EX 2 x 50W Class T Amplifier: $120](https://www.amazon.com/Topping-Amplifier-Coaxial-Digital-Headphone/dp/B071RJGQZW)
     * Uses TK2050
-    * Uses CS3310
+    * [Cirrus Logic CS3310 Stereo Digital Volume Control](https://www.cirrus.com/products/cs3310/)
+
+## Class D amplifier boards
+* [TPA3116 D2 2 x 120W with bluetooth: $14](https://www.ebay.com/itm/TPA3116-D2-120W-120W-Dual-Channel-Bluetooth-digital-Power-Audio-Amplifier-Board/172795704784?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D41375%26meid%3Db62847df3842421b91d87778894f7d26%26pid%3D100005%26rk%3D1%26rkt%3D6%26sd%3D232530115860&_trksid=p2047675.c100005.m1851)
+    * Uses TPA3116 D2 - [datasheet](http://www.ti.com/lit/ds/symlink/tpa3116d2.pdf)
+    * 120W is probably PEAK output, since TPA3116D2 is rated by TI at 2 x 50W
+    * Needs mains AC-to-DC 24V 10A SMPS
+    * [eBay search for TPA3116D2](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR1.TRC0.A0.H0.XTPA3116D2120W.TRS0&_nkw=TPA3116D2120W&_sacat=0)
 
 ## Switching mode power supplies
 * [Hypex SMPS1200 1200W SMPS](https://www.hypex.nl/product/smps1200/10#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/smps/smps1200/Documentation/SMPS1200Axx0_07xx.pdf)
     * Switching frequency: 100 KHz
     * Continuous output: 325W
+ * [Discussion on electronics.stackexahange.com on using SMPS for audio circuits](https://electronics.stackexchange.com/questions/36674/can-an-audio-circuit-be-powered-by-a-switched-mode-power-supply)
+ * [Mains AC-to-DC 24V 10A SMPS eBay search](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1312.R1.TR0.TRC0.A0.H1.TRS5&_nkw=AC+to+DC+24V+10A+switching+power+supply&_sacat=0)
+ * [Kasonic universal AC-to-DC 24V 10A SMPS: $15](https://www.ebay.com/itm/Kasonic-Universal-12V-24V-DC-Power-Supply-Driver-Adapter-For-LED-Strip/152483355211)
+ * [Mains AC-to-DC 36V 5A SMPS eBay search](https://www.ebay.com/sch/i.html?_odkw=AC+to+DC+32V+5A+switching+power+supply&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XAC+to+DC+3V+5A+switching+power+supply.TRS0&_nkw=AC+to+DC+36V+5A+switching+power+supply&_sacat=0)
+
+## DIY Audio links
+* [diyaudio.com](http://www.diyaudio.com/)
+* [AMB Laboratories](https://www.amb.org/audio/)
+* [Yuan Jing Audio](https://www.yuan-jing.com/)
 
 ## Ultra-low distortion power amplifiers
 To be included here, these power amplifiers should promise less than 0.002% THD across the audio spectrum (20 Hz to 20 KHz)
