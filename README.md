@@ -183,7 +183,7 @@ Some examples - definitely not the most outrageous!
 ## Ultra-low distortion power amplifiers
 To be included here, these power amplifiers should promise less than 0.002% THD across the audio spectrum (20 Hz to 20 KHz)
 * [A MOSFETPowerAmplifier with ErrorCorrection](http://www.cordellaudio.com/papers/MOSFET_Power_Amp.pdf) - paper by Bob Cordell (1984). Bob Cordell runs an [audio design consultancy](http://www.cordellaudio.com/) and has written a book on [Designing Audio Power Amplifiers](https://www.amazon.com/Designing-Audio-Power-Amplifiers-Cordell/dp/007164024X/)
-[* NC252MP 2 x 250W RMS power amplifier with integrated switching mode power supply](https://www.hypex.nl/product/nc252mp-oem/76#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/ncore_mp/nc252mp/Documentation/NC252MP_02xx.pdf)
+* [NC252MP 2 x 250W RMS power amplifier with integrated switching mode power supply](https://www.hypex.nl/product/nc252mp-oem/76#tab_description) - see [datasheet](https://www.hypex.nl/img/upload/doc/ncore_mp/nc252mp/Documentation/NC252MP_02xx.pdf)
     * At (Rated Power / 2):
         * 0.0015% THD (typical), 0.0024% THD (max)
     * At 1W:
